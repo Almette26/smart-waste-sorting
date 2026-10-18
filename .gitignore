@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+env/
+
+# IDE-uri
+.vscode/
+.idea/
+
+# Set de date - STRICT INTERZIS PE GIT conform cerintelor
+data/
+*.zip
+*.tar.gz
+
+# Checkpoint-uri si ponderi ale modelelor
+checkpoints/
+*.pt
+*.pth
+*.onnx
+
+# Grafice generate si log-uri
+runs/
+outputs/
+logs/
