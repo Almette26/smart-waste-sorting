@@ -1,5 +1,11 @@
 # Smart Waste Sorting - Computer Vision 3
 
+### Autor
+- **Student:** JOITOIU Robert-Cristian
+- **Facultatea:** Facultatea de Electronică, Telecomunicații și Tehnologia Informației - SIVA
+- **Disciplina:** Computer Vision 3 (CV3)
+- **An universitar:** 2026–2027
+
 Proiect realizat în cadrul laboratorului de Computer Vision 3.  
 Sistem de clasificare multi-clasă a deșeurilor reciclabile (6 clase: cardboard, glass, metal, paper, plastic, trash) folosind rețele neuronale convoluționale și augmentare generativă.
 
